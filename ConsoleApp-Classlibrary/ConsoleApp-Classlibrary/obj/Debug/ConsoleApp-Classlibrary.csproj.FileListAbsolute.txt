@@ -1,0 +1,10 @@
+L:\C#\ConsoleApp-Classlibrary\ConsoleApp-Classlibrary\bin\Debug\ConsoleApp-Classlibrary.exe.config
+L:\C#\ConsoleApp-Classlibrary\ConsoleApp-Classlibrary\bin\Debug\ConsoleApp-Classlibrary.exe
+L:\C#\ConsoleApp-Classlibrary\ConsoleApp-Classlibrary\bin\Debug\ConsoleApp-Classlibrary.pdb
+L:\C#\ConsoleApp-Classlibrary\ConsoleApp-Classlibrary\bin\Debug\Classlibrary.dll
+L:\C#\ConsoleApp-Classlibrary\ConsoleApp-Classlibrary\bin\Debug\Classlibrary.pdb
+L:\C#\ConsoleApp-Classlibrary\ConsoleApp-Classlibrary\obj\Debug\ConsoleApp-Classlibrary.csprojAssemblyReference.cache
+L:\C#\ConsoleApp-Classlibrary\ConsoleApp-Classlibrary\obj\Debug\ConsoleApp-Classlibrary.csproj.CoreCompileInputs.cache
+L:\C#\ConsoleApp-Classlibrary\ConsoleApp-Classlibrary\obj\Debug\ConsoleApp-Classlibrary.csproj.CopyComplete
+L:\C#\ConsoleApp-Classlibrary\ConsoleApp-Classlibrary\obj\Debug\ConsoleApp-Classlibrary.exe
+L:\C#\ConsoleApp-Classlibrary\ConsoleApp-Classlibrary\obj\Debug\ConsoleApp-Classlibrary.pdb
